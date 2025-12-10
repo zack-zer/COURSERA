@@ -1,1 +1,1 @@
-# COURSERA
+Simple Interest Calculator
